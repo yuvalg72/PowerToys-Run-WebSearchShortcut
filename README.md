@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a fork of [Daydreamer-riri/CmdPal-WebSearchShortcut](https://github.com/Daydreamer-riri/CmdPal-WebSearchShortcut). Original authorship belongs to the upstream project and its contributors; this repository does not claim first-party authorship of inherited work.
+
+- **Local purpose:** Reference snapshot of the upstream CmdPal Web Search Shortcut project.
+- **Local changes:** Before this notice, GitHub reported this fork as **0 commits ahead / 121 commits behind** the direct upstream branch. This documentation notice is the local change introduced by this PR.
+- **Sync model:** Snapshot/reference fork. Upstream synchronization is explicit and must not be assumed automatically.
+- **License and attribution:** GitHub reports the inherited project as **MIT**. Existing license and attribution files remain authoritative.
+- **Links and project claims:** Product, installation, release, badge, support, and project claims below belong to the upstream project unless explicitly identified as local.
+
+---
+
 # PowerToys-Run-WebSearchShortcut
 
 This is a simple [PowerToys Run](https://docs.microsoft.com/en-us/windows/powertoys/run) plugin for quickly select a specific search engine to perform searches.
